@@ -26,15 +26,6 @@
 
 ---
 
-## 🔐 資安工具
-
-| 專案 | 類型 | 說明 |
-|------|------|------|
-| [hackingtool](https://github.com/iamafu/hackingtool) | 🍴 Fork | All-in-one 滲透測試工具集 |
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | ⭐ 原版 | hackingtool 原始專案 |
-
----
-
 ## 🤖 Claude Code & AI Skills
 
 | 專案 | 說明 |
@@ -72,7 +63,7 @@
 
 <div align="center">
 
-**22 個專案 · 1 自建 · 4 Fork · 19 Star**
+**20 個專案 · 1 自建 · 3 Fork · 18 Star**
 
 *Last updated: 2026-05-22 · [🌐 視覺化頁面](https://iamafu.github.io)*
 
