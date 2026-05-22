@@ -6,14 +6,6 @@
 
 ---
 
-## 🏠 自建專案
-
-| 專案 | 說明 |
-|------|------|
-| [doraemon-center](https://github.com/iamafu/doraemon-center) | 🏗️ Doraemon Group 控制中心 |
-
----
-
 ## 🎫 搶票 & 自動簽到
 
 | 專案 | 類型 | 說明 |
@@ -63,7 +55,7 @@
 
 <div align="center">
 
-**20 個專案 · 1 自建 · 3 Fork · 18 Star**
+**19 個專案 · 3 Fork · 18 Star · 🔒 私人專案另存於 private-vault**
 
 *Last updated: 2026-05-22 · [🌐 視覺化頁面](https://iamafu.github.io)*
 
